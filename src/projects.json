@@ -1,0 +1,26 @@
+[
+    {
+        "title": "App 1",
+        "description": "Blah blah blah...",
+        "href": "https://google.com",
+        "imgSrc": "/src/assets/purple-computer.jpg"
+    },
+    {
+        "title": "App 2",
+        "description": "Blah blah blah...",
+        "href": "https://google.com",
+        "imgSrc": "/src/assets/purple-computer.jpg"
+    },
+    {
+        "title": "App 3",
+        "description": "Blah blah blah...",
+        "href": "https://google.com",
+        "imgSrc": "/src/assets/purple-computer.jpg"
+    },
+    {
+        "title": "App 5",
+        "description": "Blah blah blah...",
+        "href": "https://google.com",
+        "imgSrc": "/src/assets/purple-computer.jpg"
+    }
+  ]
