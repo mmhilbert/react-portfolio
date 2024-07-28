@@ -1,26 +1,37 @@
 [
     {
-        "title": "App 1",
-        "description": "Blah blah blah...",
-        "href": "https://google.com",
-        "imgSrc": "/src/assets/purple-computer.jpg"
+        "title": "Rad Libs",
+        "description": "Rad Libs is an interactive web application that brings the classic Mad Libs game to the digital world. Users can fill in blanks in a story, and the completed story along with a relevant image is displayed on the results page.",
+        "href": "https://mmhilbert.github.io/madlibs-project/",
+        "imgSrc": "/src/assets/Radlibs.png"
     },
     {
-        "title": "App 2",
-        "description": "Blah blah blah...",
-        "href": "https://google.com",
-        "imgSrc": "/src/assets/purple-computer.jpg"
+        "title": "Cozy Acres Farmstead",
+        "description": "A fast-paced cozy farming sim using Postgres, Express.js, Pixi.js for animations, and Handlebar templates. Keep animals fed and alive to collect their products, gain money, and expand your farm!",
+        "href": "https://github.com/mmhilbert/cozy-acres-farmstead",
+        "imgSrc": "/src/assets/cozy-acres-screenshot.jpg"
     },
     {
-        "title": "App 3",
-        "description": "Blah blah blah...",
-        "href": "https://google.com",
-        "imgSrc": "/src/assets/purple-computer.jpg"
+        "title": "Note Taker",
+        "description": "Note Taker is a simple and efficient application for writing and saving notes. This application uses an Express.js back end to save and retrieve note data from a JSON file, ensuring that your notes are always stored securely and can be accessed quickly.",
+        "href": "https://note-taker-express-js-hc8y.onrender.com/",
+        "imgSrc": "/src/assets/note-taker.jpg"
     },
     {
-        "title": "App 5",
-        "description": "Blah blah blah...",
-        "href": "https://google.com",
-        "imgSrc": "/src/assets/purple-computer.jpg"
+        "title": "Weather App",
+        "description": "Weather Dashboard leveraging OpenWeather API to fetch current and future forecast. Search data is also stored in local storage and populated as clickable links under the search input so users can populate weather data for cities they've searched before.",
+        "href": "https://mmhilbert.github.io/weather-dashboard/",
+        "imgSrc": "/src/assets/weather-app.png"
+    },
+    {
+        "title": "Blog with Local Storage",
+        "description": "A personal blog that is saved to local storage when submitted. Users are then redirected to a posts page which retrieved the data from local storage and lists all posts that have been stored. It also contains a light/dark mode toggle that allows users to change the color scheme based on their preference.",
+        "href": "https://mmhilbert.github.io/blog-with-local-storage/",
+        "imgSrc": "/src/assets/blog.png"
+    },{
+        "title": "Task Board",
+        "description": "A task board in a kanban style where tasks are filed either into the to do, in progress, or done section. Task cards are also color coded to indicate if the task is near a the deadline (yellow) , or overdue (red) to help keep better track of urgent tasks. These tasks are draggable and droppable, and can also be deleted once completed.",
+        "href": "https://mmhilbert.github.io/task-board-jquery-ui/",
+        "imgSrc": "/src/assets/task-board.png"
     }
   ]

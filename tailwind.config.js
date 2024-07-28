@@ -14,7 +14,11 @@ export default {
         '2xl': '6rem',
       },
     },
-    extend: {},
+    extend: {
+      colors: {
+        petal: "#f4bebe"
+      }
+    },
     fontFamily: {
       sans: ['monospace']
     }
