@@ -1,5 +1,4 @@
 const Project = ({project}) => {
-
     return (
         <div className="card glass w-full shadow-xl col-span-1">
             <figure>
