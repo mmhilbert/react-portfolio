@@ -2,3 +2,35 @@
 @tailwind components;
 @tailwind utilities;
 
+#first-section {
+    background-image: url('/src/assets/green-leaves.jpg');
+    height: 200px;
+    letter-spacing: 35px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+#first-section::after {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: .30;
+    z-index: 1;
+}
+
+#first-section h2 {
+    color: #E0AFA0;
+    font-size: 28px;
+    font-weight: 900;
+    z-index: 2;
+}

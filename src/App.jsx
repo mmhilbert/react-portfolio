@@ -9,6 +9,9 @@ function App() {
   return (
     <>
     <Header name="Megan" />
+    <section id='first-section'>
+      <h2>Welcome</h2>
+    </section>
     <div className='flex flex-col items-center'>
       <div className="container">
         <Outlet />
