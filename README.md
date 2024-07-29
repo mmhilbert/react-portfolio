@@ -39,3 +39,6 @@ Welcome to my professional web developer portfolio built with React! This single
 ## Licence
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
+## Link
+[GitHub Repo](https://github.com/mmhilbert/react-portfolio)
+[Live Application](https://animated-dasik-5caebb.netlify.app/)
